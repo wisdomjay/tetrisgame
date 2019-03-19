@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    margin: 50px auto 50px auto;
+
+}
+.content_display{
+    background: #efefef;
+    height: 80vh;
+    width: 400px;
+    position: relative;
+}
+.l{
+    display: inline-block;
+    margin: 1px;
+   /* display: none; */
+} 
+.l1{
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    background: green;   
+}
